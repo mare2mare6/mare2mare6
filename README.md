@@ -13,7 +13,7 @@
 
 >  **"모든 경험은 레퍼런스가 되고, 비판은 성장이 된다"**
 
-- UX/UI 디자이너를 꿈꾸는 학생 &nbsp;·&nbsp; 취준생이에요
+- 🎓 UX/UI 디자이너를 꿈꾸는 학생 &nbsp;·&nbsp; 취준생이에요
 - 사용자가 마주했을 때 어렵지 않은 디자인을 좋아해요
 - 낯선 툴, 낯선 방식을 배우는 것을 좋아해요
 - 피드백에서 배움을 얻어가려 항상 노력해요
@@ -46,9 +46,6 @@
 
 ## ☁️ GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mare2mare6&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&ring_color=7dd3fc" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mare2mare6&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mare2mare6&theme=github-compact&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true&hide_title=false" width="98%"/>
 
