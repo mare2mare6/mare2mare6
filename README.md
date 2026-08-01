@@ -72,6 +72,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mare2mare6&color=0d1117&style=flat-square&label=visitors)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b2735,100:0d1117&height=90&section=footer"/>
+<img width="1920" height="329" alt="푸터" src="https://github.com/user-attachments/assets/6caccee4-aa2b-49e8-832e-20e29f3939b1" />
 
 </div>
